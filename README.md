@@ -1,4 +1,7 @@
 # Práctico N°2 - Paradigma de Programación
+Nombre: Priscila Rocio Miranda
+DNI: 47528897
+Legajo: 53425
 
 ## Descripción
 
